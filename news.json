@@ -1,0 +1,71 @@
+[
+    {
+      "id": "bbc-news",
+      "name": "BBC News",
+      "author": "Jane Smith",
+      "title": "Paralympics at Paris",
+      "description": "Paralympics closing ceremony has Paris partying. ",
+      "url": "https://www.bbc.com/sport/articles/c74lp8d9yr0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/976/cpsprodpb/5e31/live/11381940-6e21-11ef-b6d9-4bfb9357af35.jpg.webp",
+      "publishedAt": "2024-09-08T10:20:00Z",
+      "content": "This is the full article content for the closing party for the Paralympics that's hapening in Paris."
+    },
+    {
+      "id": "cnn-news",
+      "name": "CNN News",
+      "author": " Kathleen Magramo",
+      "title": "Graduation as a retiree.",
+      "description": "This 70 year old retiree just finished his mid-school.",
+      "url": "https://www.cnn.com/2024/09/07/asia/older-medical-school-graduate-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-1-20240813065123396.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+      "publishedAt": "2024-09-07T09:15:00Z",
+      "content": "This article contains detailed content about the retiree and what drived him to finish his midschool at that age."
+    },
+    {
+      "id": "un-news",
+      "name": "UN News",
+      "author": "Alice Johnson",
+      "title": "Sudan's nightmare of conflict",
+      "description": "Wake up and help Sudan out of the nightmare of conflict.",
+      "url": "https://www.globalissues.org/news/2024/09/08/37603",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-08-2024_OCHA_Sudan.jpg/image1170x530cropped.jpg",
+      "publishedAt": "2024-09-06T08:45:00Z",
+      "content": "In-depth content about the health conflict in Sudan."
+    },
+    {
+      "id": "the-guardian-news",
+      "name": "The Guardian",
+      "author": "Tom Brown",
+      "title": "US Elections 2024",
+      "description": "Liz Cheney calls Trump a ‘catastrophe’ and urges Republicans to vote for Harris.",
+      "url": "https://www.theguardian.com/us-news/article/2024/sep/08/liz-cheney-trump-catastrophe",
+      "urlToImage": "https://i.guim.co.uk/img/media/3c69153294e0136e82956116c9089f2631b81fb6/0_267_4000_2400/master/4000.jpg?width=620&dpr=2&s=none",
+      "publishedAt": "2024-09-05T11:00:00Z",
+      "content": "Full article on the ELections being held in US."
+    },
+    {
+      "id": "aljazeera-news",
+      "name": "Al Jazeera",
+      "author": "Farah Najjar",
+      "title": "Israel-Palestine conflict",
+      "description": "Jenin’s earthquake incursion by Israeli forces.",
+      "url": "https://www.aljazeera.com/features/2024/9/8/what-its-like-to-flee-jenins-earthquake-incursion-by-israeli-forces",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-09-03T200534Z_844684328_RC2ZS9AHNIBM_RTRMADP_3_ISRAEL-PALESTINIANS-JENIN-1725464368.jpg?resize=770%2C513&quality=80",
+      "publishedAt": "2024-09-08",
+      "content": "Full details on the earthquake incursion by Israeli forces."
+    },
+    {
+      "id": "fox-news",
+      "name": "Fox News",
+      "author": "Daniel Wright",
+      "title": "Sports",
+      "description": "Lions pull off thrilling overtime win over Rams behind breakout game from Jameson Williams.",
+      "url": "https://www.foxnews.com/sports/lions-pull-off-thrilling-overtime-win-over-rams-behind-breakout-game-from-jameson-williams",
+      "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/09/1440/810/Jared-Goff.jpg?ve=1&tl=1",
+      "publishedAt": "2024-09-03T12:00:00Z",
+      "content": "Article discussing the recent developments that happen in sports."
+    }
+]
+
+// displays 6 news that are happening in the world globally
+
